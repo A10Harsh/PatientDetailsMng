@@ -1,0 +1,67 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+header{
+    text-align: center;
+    background-color: black;
+    color:aliceblue;
+    font-size: 30px;
+    padding: 20px;
+}main{
+    padding:50px;
+
+}
+div{
+    width: 60%;
+    margin:0 auto;
+}
+form{
+    border: 3px solid black;
+    padding: 10px;
+    margin:10px;
+}
+form input[type="text"]{
+    width: 100%;
+    align-content: center;
+    margin :7px;
+    box-sizing: border-box;
+}
+#date{
+    width: 100%;
+    align-content: center;
+    margin :5px;
+    box-sizing: border-box;
+}
+textarea{
+    width: 100%;
+    align-content: center;
+    margin :5px;
+    box-sizing: border-box;
+}
+label{
+    font-size: 18px;
+}
+
+form button{
+    width:100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+
+}
+
+h2{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color:aliceblue;
+    font-size: 30px;
+    padding: 20px;
+}
